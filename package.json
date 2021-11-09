@@ -8,5 +8,8 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.3.1"
+  },
+  "engines": {
+    "node": "16.4.1"
   }
 }

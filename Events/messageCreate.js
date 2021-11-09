@@ -18,6 +18,15 @@ module.exports = new Event("messageCreate", (client, message) => {
       case "결이 자지.":
         message.reply("🤏");
         break;
+      case "태균이 차단.":
+        message.reply("나이스 ㅋㅋ");
+        break;
+      case "결이 죽어.":
+        message.reply("씨발련이");
+        break;
+      case "아이번은 쓰레기다.":
+        message.reply("ㅇㅈ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
+        break;
       default:
         break;
     }
